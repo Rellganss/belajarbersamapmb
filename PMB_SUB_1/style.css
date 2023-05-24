@@ -1,0 +1,64 @@
+/* style.css */
+
+/* Style untuk elemen <header> */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  /* Style untuk elemen <main> */
+  main {
+    margin: 20px;
+  }
+  
+  /* Style untuk elemen <section> */
+  section {
+    margin-bottom: 20px;
+  }
+  
+  /* Style untuk elemen <article> */
+  article {
+    background-color: #f5f5f5;
+    padding: 10px;
+  }
+  
+  /* Style untuk elemen <aside> */
+  aside {
+    background-color: #f9f9f9;
+    padding: 10px;
+  }
+  
+  /* Style untuk elemen <footer> */
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Style untuk identitas di dalam <aside> */
+  aside h2 {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  aside p {
+    margin: 5px 0;
+  }
+  
+  /* Style tambahan */
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+  }
+  
+  h1, h2, h3 {
+    margin: 0;
+  }
+  
+  p {
+    margin: 0;
+  }
+  
+  
