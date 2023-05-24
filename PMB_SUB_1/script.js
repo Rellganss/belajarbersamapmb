@@ -10,3 +10,7 @@ function ubahWarna() {
 
   indeksWarna = (indeksWarna + 1) % warnaTersedia.length;
 }
+
+function isiForm() {
+  alert("OKE SIP");
+}
